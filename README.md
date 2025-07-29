@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be a basic recipe website, describing my favourite dessert recipes. I will create a website with a title and links to different recipes. With each recipe, I will demonstrate steps, lists of ingredients you need and a short description of what it is and why I like the dessert.
